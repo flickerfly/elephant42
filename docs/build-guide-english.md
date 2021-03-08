@@ -32,7 +32,7 @@ It will be smooth if you can ask "what you are trying to do", "what you did", an
     - [QMK Write Troubleshooting](#qmk-write-troubleshooting)
   - [Main board (PCB) partition](#main-board-pcb-partition)
     - [(Optional) Color the sides of the PCB](#optional-color-the-sides-of-the-pcb)
-  - [Soldering Pro Micro and Conthru](#soldering-pro-micro-and-conthru)
+  - [Soldering Pro Micro and Conthrough Spring Pin Header](#soldering-pro-micro-and-conthrough-spring-pin-header)
   - [(Optional) Backlight / Underglow LED installation](#optional-backlight--underglow-led-installation)
     - [Installation of backlight LED](#installation-of-backlight-led)
     - [LED TEST method](#led-test-method)
@@ -95,7 +95,7 @@ Please refer to the link of the recommended purchase destination (domestic mail 
      - [Pro Micro (with conthrough) | Yusha Kobo](https://yushakobo.jp/shop/promicro-spring-pinheader/) * Please purchase two
      - TALP KEYBOARD
        - [Pro Micro ATmega32U4 5V/16MHz/MicroUSB2 (compatible product)](https://talpkeyboard.stores.jp/items/5b24504ba6e6ee7ec60063e3) * Please purchase two
-       - [MAC8 Conthru XB-3-2.5-12P (Height 2.5mm/12 pins/1 piece)](https://talpkeyboard.stores.jp/items/5e056626d790db16e2889233) * Please purchase 4
+       - [MAC8 Conthrough XB-3-2.5-12P (Height 2.5mm/12 pins/1 piece)](https://talpkeyboard.stores.jp/items/5e056626d790db16e2889233) * Please purchase 4
      - Very cheap Pro Micro is sold as a set on Amazon etc., but it is safer to buy it at a proper store because you will get a bad product with a good probability.
    - Many domestic kits are included, but this kit is not included.
 - MX compatible switches ... 42
@@ -386,7 +386,7 @@ Trace the sides with an oil-based pen, and wipe off the ink on the front and bac
 It's common to paint with the same color as the PCB, but it's also nice to have an example of painting with a different color to accentuate it! Also, Pro Micro can be more complete by painting the sides in the same way.
 
 
-## Soldering Pro Micro and Conthru
+## Soldering Pro Micro and Conthrough Spring Pin Header
 
 Check the orientation of the conthrough and insert it into the Pro Micro by referring to the photo.
 
@@ -394,7 +394,7 @@ It also fits into the main board (PCB) so that the ProMicro and Conslew are moun
 
 **Solder the ProMicro and the conthrough, not the main board (PCB) and the conthrough.**
 
-After soldering the ProMicro and the conthru, remove the ProMicro (and the soldered conthru) from the main board once.
+After soldering the ProMicro and the conthrough, remove the ProMicro (and the soldered conthrough) from the main board once.
 
 
 |![Consul](build-guide/konsuru.jpeg) |![Insert into Promicro](build-guide/promicro_konsuru_l.jpeg) |
